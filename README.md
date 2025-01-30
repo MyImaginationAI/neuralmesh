@@ -1,6 +1,4 @@
-# NeuralMesh 🧠 - Decentralized AI Agent Network<div align="center">NeuralMesh Banner[License: MIT[Python 3.9+[AWS
-[PyQt6
-[Ethereum
+# NeuralMesh 🧠 - Decentralized AI Agent Network
 
 </div>
 
